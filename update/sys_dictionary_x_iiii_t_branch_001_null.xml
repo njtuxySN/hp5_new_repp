@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="" table="x_iiii_from_iii">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="" table="x_iiii_t_branch_001">
         <active>true</active>
         <array>false</array>
         <attributes/>
@@ -33,7 +33,7 @@
         <internal_type display_value="Collection">collection</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
-        <name>x_iiii_from_iii</name>
+        <name>x_iiii_t_branch_001</name>
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
@@ -50,18 +50,18 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2016-09-14 23:19:33</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
-        <sys_id>3e39cc7284312200964f0f0a1b709347</sys_id>
+        <sys_created_on>2016-09-14 23:26:49</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>bca9c4b284312200964f0f0a1b70935e</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_iiii_from_iii</sys_name>
+        <sys_name>x_iiii_t_branch_001</sys_name>
         <sys_package display_value="iiii" source="x_iiii">3077047629312200964f5fd20390d3b2</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="iiii">3077047629312200964f5fd20390d3b2</sys_scope>
-        <sys_update_name>sys_dictionary_x_iiii_from_iii_NULL</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2016-09-14 23:25:03</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_iiii_t_branch_001_null</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-09-14 23:26:49</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="t_branch_001" language="en" table="x_iiii_t_branch_001">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>t_branch_001</label>
+            <language>en</language>
+            <name>x_iiii_t_branch_001</name>
+            <plural>t_branch_001s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-09-14 23:26:49</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>01a9c4b284312200964f0f0a1b709361</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>t_branch_001</sys_name>
+            <sys_package display_value="iiii" source="x_iiii">3077047629312200964f5fd20390d3b2</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="iiii">3077047629312200964f5fd20390d3b2</sys_scope>
+            <sys_update_name>sys_documentation_x_iiii_t_branch_001__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-09-14 23:26:49</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
